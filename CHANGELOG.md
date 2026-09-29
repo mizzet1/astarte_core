@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+
+- Add `DeviceEmptyCacheReceivedEvent` simple event and its JSON encoding
+
 ## [1.4.0-rc.6] - 2026-09-28
 
 ## [1.4.0-rc.5] - 2026-08-19
